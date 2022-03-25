@@ -5,7 +5,7 @@ Created on Tue Nov  2 23:41:22 2021
 @author: José Carlos Costa
 """
 
-
+from selenium import webdriver
 import pandas as pd
 import re
 import matplotlib.pyplot as plt
